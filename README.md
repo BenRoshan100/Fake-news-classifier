@@ -35,3 +35,6 @@ This is my second Deep learning project. I have covered processing and building 
 ## Credits
 - A huge shout-out to both the kaggle dataset [FakeandRealNews](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
+## Kaggle notebook
+- Kaggle Notebook of [Ben Roshan D](https://www.kaggle.com/benroshan/fake-news-classifier-lstm)
+
