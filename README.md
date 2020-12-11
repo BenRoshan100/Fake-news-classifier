@@ -10,7 +10,7 @@
   * [Kaggle notebook](#Kaggle-notebook)
   
 ## Overview
-This text mining dataset features fake news and true news from websites like Reuters and cassified fake news  on US election news dataset.Also built LSTM and Bidirectional LSTM to compare and classify fake news. 
+This text mining dataset features fake news and true news from websites like Reuters and classified fake news  on US election news dataset.Also built LSTM and Bidirectional LSTM to compare and classify fake news. 
 
 ## Motivation
 This is my second Deep learning project. I have covered processing and building a model plus hyperparameter tuning to improve the accuracy of the model. Also this is my first time working on RNN network and applied LSTM gates in the network. I was also excited to find the boundaries of application this LSTM offers and hopefully I get to apply Attention Models,Transformers and BERT soon .
