@@ -7,6 +7,7 @@
   * [Technologies Used](#technologies-used)
   * [Author](#author)
   * [Credits](#credits)
+  * [Kaggle notebook](#Kaggle-notebook)
   
 ## Overview
 This text mining dataset features fake news and true news from websites like Reuters and cassified fake news  on US election news dataset.Also built LSTM and Bidirectional LSTM to compare and classify fake news. 
